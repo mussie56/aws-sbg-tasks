@@ -1,0 +1,16 @@
+query,query_type,target_topic,expected_match_description
+What are the common symptoms of coronavirus?,exact_lexical,"Clinical Symptoms (fever, dry cough, tiredness, loss of taste/smell)",FAQ entries listing official symptoms of COVID-19 infection.
+Can SARS-CoV-2 spread through asymptomatic individuals?,semantic_paraphrase,Transmission Dynamics / Asymptomatic Spread,Answers discussing viral transmission from people who show no symptoms.
+pfizer moderna booster interval schedule,keyword_sparse,Vaccine Dosage & Boosters,"Guidelines on vaccine booster eligibility, timing intervals, and brand compatibility."
+How long should I self-isolate if I test positive on a rapid antigen test?,semantic_paraphrase,Quarantine & Isolation Protocols,CDC/WHO isolation length guidelines after positive test results.
+Does drinking hot water or lemon prevent contracting COVID?,myth_busting,Misconceptions & Home Remedies,Myth-buster FAQ entries debunking food/water cure claims.
+Are pregnant women at higher risk of severe illness from COVID-19?,semantic_paraphrase,Vulnerable Populations / Pregnancy,"Clinical guidance regarding pregnancy, fetal risk, and COVID severity."
+n95 kn95 cloth mask efficacy airborne transmission,keyword_sparse,Personal Protective Equipment (PPE) / Masking,Comparisons and recommendations of respirator and mask filtration types.
+Can household pets like dogs and cats catch or transmit the virus to humans?,semantic_paraphrase,Zoonotic & Pet Transmission,Veterinary/public health FAQs on animal infection and domestic transmission risk.
+What are the common side effects after getting the COVID-19 vaccine?,exact_lexical,Vaccine Adverse Effects,"Details on expected mild side effects (arm soreness, mild fever, fatigue)."
+"I still feel fatigued and brain fog 3 months after recovering, is this long COVID?",conversational_informal,Post-COVID Conditions (Long COVID / PASC),Descriptions of persistent post-acute sequelae and long-term symptom management.
+What is the difference between PCR tests and rapid antigen tests?,semantic_paraphrase,Diagnostic Testing Modalities,"Comparative accuracy, turnaround times, and mechanism of PCR vs Antigen tests."
+international travel restrictions vaccination requirements entry rules,keyword_sparse,Travel & Border Entry Regulations,"Guidelines on traveling, testing windows, and vaccination documentation."
+How effective are monoclonal antibodies or Paxlovid for early treatment?,semantic_paraphrase,Antiviral Therapeutics & Treatment,Clinical efficacy and eligibility criteria for antivirals and monoclonal treatments.
+Can the virus survive on frozen food packaging or grocery items?,semantic_paraphrase,Fomite / Surface Transmission,"Surface viability, fomite transmission risk, and grocery disinfection guidance."
+What are the early warning signs of severe infection requiring immediate emergency care?,semantic_paraphrase,Emergency Warning Signs,"Severe symptoms like trouble breathing, persistent chest pain, bluish lips."
