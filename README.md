@@ -12,6 +12,7 @@ My focus is on understanding concepts through implementation, writing modular an
 ```text
 aws-sbg-tasks/
 ├── week-01/
+|   ├── README.md
 │   ├── requirements.txt
 │   ├── data_cleaning.py
 │   ├── data_cleaning.ipynb
